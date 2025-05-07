@@ -89,5 +89,3 @@ YSA_OCR_7x5/ │ ├── Form1.cs → Ana arayüz kodu (matrix, eventler, YSA 
 - Eğitim hatasını grafikle göstermek  
 
 ---
-
-> 🏁 Proje, yapay sinir ağları dersinin tüm gereksinimlerini yerine getirmektedir.
